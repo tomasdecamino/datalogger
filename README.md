@@ -2,7 +2,7 @@
 # datalogger
 Código y diseño de caja de datalogger para medir cambios de luz. EL código para crear y almacenar en archivos es tomado de el código creado por Bentley Born, aunque lo adaptamos para este logger, puede encontrar el [código original en este link](/https://github.com/bborncr/Datalogger_STATE_SDConfig)
 
-* PAra el datalogger se utiliza el controlador [Adafruit Feather Adalogger](https://www.adafruit.com/product/2796).
+* Para el datalogger se utiliza el controlador [Adafruit Feather Adalogger](https://www.adafruit.com/product/2796).
 * Se utiliza el sensor [SI1145](https://www.adafruit.com/products/1777) de Adafruit. 
 * Detalles de conexión los puden [encotrar acá](https://learn.adafruit.com/adafruit-si1145-breakout-board-uv-ir-visible-sensor).
 * Se utiliza una [batería Lipo](https://www.adafruit.com/products/1317)
