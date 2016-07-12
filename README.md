@@ -5,3 +5,6 @@ Código y diseño de caja de datalogger para medir cambios de luz. EL código pa
 * el repositorio Light_Sensor_SI1145 contiene código para leer por puerto serial, la información del sensor. Con este código se pueden ver los datos para efectos de calibración.
 * En Datalogger_STATE_SDConfig está el código para datalogging.  En archivo CONFIG.TXT se cambia para indicar fecha e intervalos de grabación de datos en la tarjeta SD
 * El repositorio Caja, contiene los archivos de diseño para armar las caja.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
