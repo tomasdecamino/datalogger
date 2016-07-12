@@ -5,6 +5,7 @@ Código y diseño de caja de datalogger para medir cambios de luz. EL código pa
 * PAra el datalogger se utiliza el controlador [Adafruit Feather Adalogger](https://www.adafruit.com/product/2796).
 * Se utiliza el sensor [SI1145](https://www.adafruit.com/products/1777) de Adafruit. 
 * Detalles de conexión los puden [encotrar acá](https://learn.adafruit.com/adafruit-si1145-breakout-board-uv-ir-visible-sensor).
+* Se utiliza una [batería Lipo](https://www.adafruit.com/products/1317)
 * el repositorio Light_Sensor_SI1145 contiene código para leer por puerto serial, la información del sensor. Con este código se pueden ver los datos para efectos de calibración.
 * En Datalogger_STATE_SDConfig está el código para datalogging.  En archivo CONFIG.TXT se cambia para indicar fecha e intervalos de grabación de datos en la tarjeta SD
 * El repositorio Caja, contiene los archivos de diseño para armar las caja.
